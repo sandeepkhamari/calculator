@@ -6,7 +6,7 @@ using namespace std;
 int main()
 {
     int opt, num1, num2;
-    cout<<"Welcome to calculator"<<endl;
+    cout<<"Welcome to calculator app: Hope you have a great day!"<<endl;
     cout<<"Choose an operation:"<<endl;
     cout<<"1.Add 2.Sub 3.Mul 4.Div 5.pow 6.perc 7.sqrt"<<endl;
     cin>>opt;
